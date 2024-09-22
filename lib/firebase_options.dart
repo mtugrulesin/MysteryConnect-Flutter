@@ -43,41 +43,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB1rl1MytMSYf8FYBzf42qiuQWw9KzNjZg',
-    appId: '1:523403492550:web:ed995d787251312dbaabc7',
-    messagingSenderId: '523403492550',
-    projectId: 'mysteryconnect-d89aa',
-    authDomain: 'mysteryconnect-d89aa.firebaseapp.com',
-    storageBucket: 'mysteryconnect-d89aa.appspot.com',
-    measurementId: 'G-Q6SKNCEKXN',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCiWaRU-CMwwVTVV2OzbrPmIrgjO-OVxMM',
-    appId: '1:523403492550:android:62907890c2cc2e5ebaabc7',
-    messagingSenderId: '523403492550',
-    projectId: 'mysteryconnect-d89aa',
-    storageBucket: 'mysteryconnect-d89aa.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDaA-PBjR8PEOkpC9kzcyjkrEsu_17RDD8',
-    appId: '1:523403492550:ios:8f0212fcec1732bdbaabc7',
-    messagingSenderId: '523403492550',
-    projectId: 'mysteryconnect-d89aa',
-    storageBucket: 'mysteryconnect-d89aa.appspot.com',
-    iosClientId: '523403492550-dsfhjri790cb1gq84djh4be5kv0hu3db.apps.googleusercontent.com',
-    iosBundleId: 'com.esinentinc.MysteryConnect',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDaA-PBjR8PEOkpC9kzcyjkrEsu_17RDD8',
-    appId: '1:523403492550:ios:8f0212fcec1732bdbaabc7',
-    messagingSenderId: '523403492550',
-    projectId: 'mysteryconnect-d89aa',
-    storageBucket: 'mysteryconnect-d89aa.appspot.com',
-    iosClientId: '523403492550-dsfhjri790cb1gq84djh4be5kv0hu3db.apps.googleusercontent.com',
-    iosBundleId: 'com.esinentinc.MysteryConnect',
-  );
+  
 }
