@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "523403492550",
+    "project_id": "mysteryconnect-d89aa",
+    "storage_bucket": "mysteryconnect-d89aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523403492550:android:62907890c2cc2e5ebaabc7",
+        "android_client_info": {
+          "package_name": "com.esinentinc.MysteryConnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523403492550-hj85gsk5o4f9vo4eqa2n3dojqqnao9fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiWaRU-CMwwVTVV2OzbrPmIrgjO-OVxMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523403492550-hj85gsk5o4f9vo4eqa2n3dojqqnao9fm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "523403492550-dsfhjri790cb1gq84djh4be5kv0hu3db.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.esinentinc.MysteryConnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
